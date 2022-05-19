@@ -1,3 +1,19 @@
-### Hello! I'm back from taking a break on my projects!
-
-Check out my biggest project yet, a graph database known as **IrisDB!** [See the organization](https://github.com/iris-db)
+## Hello 👋 Heres a List of Technologies Ive Used
+- Rust
+- Go
+- Typescript
+- Kotlin
+- Java
+- C#
+- HTML
+- React
+- AWS
+- Docker
+- C++
+- React Native
+- ExpressJS
+- Apollo
+- Terraform
+- Github Actions
+- Python
+- and more!
